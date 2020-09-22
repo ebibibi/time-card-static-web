@@ -5,5 +5,8 @@
     "azureFunctions.projectRuntime": "~3",
     "debug.internalConsoleOptions": "neverOpen",
     "azureFunctions.preDeployTask": "npm prune",
-    "azureFunctions.projectSubpath": "api"
+    "azureFunctions.projectSubpath": "api",
+    "staticWebApps.appSubpath": "client",
+    "staticWebApps.apiSubpath": "api",
+    "staticWebApps.appArtifactSubpath": "build"
 }
